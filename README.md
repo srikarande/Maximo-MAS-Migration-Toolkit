@@ -10,7 +10,7 @@
 The Maximo MAS Migration Toolkit provides a comprehensive framework for organizations planning migrations from IBM Maximo 7.x to Maximo Application Suite (MAS) 9.x. This toolkit includes assessment tools, decision frameworks, technical templates, and implementation accelerators based on real-world enterprise and municipal implementations.
 
 **Created by:** [Srikar Ande](https://linkedin.com/in/srikar-ande) - Solution Architect & IBM Champion  
-**Based on:** Toronto Water Phase 3 EWMS implementation experience ($90B+ asset portfolio)  
+**Based on:** Various Maximo  implementations experience ($90B+ asset portfolio)  
 **Focus:** Separate instance vs. enterprise integration decision frameworks
 
 ## 🚀 **Key Features**
