@@ -34,7 +34,7 @@ The Maximo MAS Migration Toolkit provides a comprehensive framework for organiza
 - 📊 **KPI Dashboard Templates** - Operational metrics and performance monitoring
 
 ### **Documentation Framework**
-- 📋 **SOW Amendment Templates** - Contract modification templates for scope changes
+
 - 🎯 **Change Management Playbooks** - Organizational change strategies and communication plans
 - 📚 **Training Material Templates** - User education and adoption resources
 - 🎪 **Workshop Facilitation Guides** - Community engagement and knowledge transfer tools
@@ -53,10 +53,10 @@ The Maximo MAS Migration Toolkit provides a comprehensive framework for organiza
 
 **Use the included Decision Matrix Calculator to evaluate your specific scenario.**
 
-## 🏛️ **Real-World Case Study: Toronto Water**
+## 🏛️ **Real-World Case Study: Public Water Utility based out of Toronto**
 
 ### **Project Overview:**
-- **Organization:** City of Toronto - Toronto Water Division
+- **Organization:** Public Water Utility
 - **Asset Portfolio:** $90+ Billion municipal infrastructure
 - **Deployment Model:** Separate MAS 9.1 instance (independent of City's Maximo 7.6)
 - **Timeline:** 6-month acceleration achieved through separate instance approach
