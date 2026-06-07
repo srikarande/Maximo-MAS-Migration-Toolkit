@@ -171,7 +171,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Srikar Ande** is a Solution Architect, Product Manager, and 2-time IBM Champion with 19+ years of experience in Maximo implementations across municipal, utilities, and enterprise sectors. Currently leading EAM/FSM product development at Enbridge Inc., Srikar specializes in large-scale migrations, sustainability integration, and municipal asset management optimization.
 
 **Notable Projects:**
-- 🏛️ Toronto Water Phase 3 EWMS ($90B+ assets) - Separate instance MAS 9.1 deployment
+- 🏛️ Public Water Utility ($90B+ assets) - Separate instance MAS 9.1 deployment
 - 🚄 California High-Speed Rail Authority (CHSRA) - $9.37M Maximo implementation  
 - ⚡ Enbridge Inc. - Enterprise EAM/FSM product releases and digital transformation
 
